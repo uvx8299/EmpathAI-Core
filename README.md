@@ -37,3 +37,8 @@ Input → Maslow Needs → Personality State → Ethics Filter → Language Beha
 
 ## 📬 Contact / 聯絡方式
 📩 uvx8299@gmail.com
+
+---
+
+📖 Learn more about our [Core Principles](docs/principles.md)  
+了解我們的[核心理念](docs/principles.md)
