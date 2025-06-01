@@ -24,6 +24,7 @@ EmpathAI Core 是一套可模組化的AI行為生成架構，融合以下概念�
 You can test how EmpathAI Core simulates different personality responses to the same input.
 
 你可以體驗 EmpathAI Core 如何針對相同輸入，產生具人格風格差異的回應。
+```markdown
 
 ### ▶️ Run locally
 ```bash
@@ -56,6 +57,7 @@ You will see:
 Input → Maslow Needs → Personality State → Ethics Filter → Language Behavior → Output
 
 ## 📬 Contact / 聯絡方式
+```markdown
 📩 uvx8299@gmail.com
 
 ---
