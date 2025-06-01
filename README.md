@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/empathai-banner.png" alt="EmpathAI Core Banner" width="800"/>
 </p>
