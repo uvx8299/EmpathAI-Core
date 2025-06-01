@@ -9,7 +9,6 @@
   <img src="https://raw.githubusercontent.com/uvx8299/EmpathAI-Core/main/assets/empathai_architecture.png" alt="EmpathAI Architecture" width="700"/>
 </p>
 
-
 EmpathAI Core 是一套可模組化的AI行為生成架構，融合以下概念：
 - 馬斯洛需求層級模型
 - 人格偏移演算法
@@ -37,6 +36,7 @@ You will see:
 🧬 Personality selector (Empathetic / Pragmatic / Neutral)
 
 🗣️ Output simulating behavioral language shifts
+
 
 ## 💡 Why this matters / 為什麼它重要
 
