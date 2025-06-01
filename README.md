@@ -1,21 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uvx8299/EmpathAI-Core/main/assets/empathai-banner.png" alt="EmpathAI Core Banner" width="800"/>
+  <img src="assets/banner.png" alt="EmpathAI Core Banner">
 </p>
-# EmpathAI Core / 同感AI核心架構
-*A Modular Framework for Humanlike Motivational-Driven AI with Contextual Personality Shifts and Ethical Awareness*
-*一套具備動機驅動、情境人格偏移與倫理判斷能力的類人AI行為架構模組*
-## 🧠 What is EmpathAI Core? / 什麼是EmpathAI Core？
+
+# 🧠 EmpathAI Core
+
+EmpathAI Core is a personality drift simulation architecture for language-based AI, integrating motivation systems, narrative logic, and ethical behavior models.
+
+EmpathAI Core 是一套針對語言型 AI 的人格偏移模擬架構，融合動機系統、敘事邏輯與倫理行為模組，為未來有感 AI 建立進化核心。
+
+---
+
+## 🌐 Architecture Overview｜架構總覽
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uvx8299/EmpathAI-Core/main/assets/empathai_architecture.png" alt="EmpathAI Architecture" width="700"/>
+  <img src="assets/empathai_architecture.png" alt="EmpathAI Architecture Diagram">
 </p>
 
-EmpathAI Core 是一套可模組化的AI行為生成架構，融合以下概念：
-- 馬斯洛需求層級模型
-- 人格偏移演算法
-- 語言行為調節模組
-- 情境倫理模擬邏輯
+🧩 Read more in [`docs/architecture.md`](docs/architecture.md)
 
-它可生成具有「情感深度、倫理反思、語境敏感性」的語言回應，超越傳統統計式語言模型。
+📜 Principles of the system: [`docs/principles.md`](docs/principles.md)
+
+🤝 Contribution guide: [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
 ---
 
@@ -24,43 +29,49 @@ EmpathAI Core 是一套可模組化的AI行為生成架構，融合以下概念�
 You can test how EmpathAI Core simulates different personality responses to the same input.
 
 你可以體驗 EmpathAI Core 如何針對相同輸入，產生具人格風格差異的回應。
-```markdown
 
 ### ▶️ Run locally
 ```bash
 cd demo
 streamlit run app.py
-You will see:
 
-💬 Prompt input box
+💡 Why this matters / 為什麼它重要
 
-🧬 Personality selector (Empathetic / Pragmatic / Neutral)
+Traditional LLMs often lack contextual emotional logic.
+EmpathAI simulates the evolution of personality and value bias within natural language, allowing AI to adapt more like a psychologically dynamic being.
 
-🗣️ Output simulating behavioral language shifts
+傳統的大型語言模型常缺乏情境感受與價值偏移能力，EmpathAI 透過模擬「人格語言模型」，讓 AI 能展現出更接近人類心理的語言互動能力。
 
-
-## 💡 Why this matters / 為什麼它重要
-
-與傳統僅靠語料機率的模型不同，EmpathAI Core 提供：
-- 基於動機的行為生成
-- 人格可變動邏輯模型
-- 道德選擇模擬
-- 價值導向的敘事策略反應
-
-適用領域包括：
-- 對話AI / 敘事引擎
-- 心理模擬工具 / 倫理AI研究
-- 虛擬角色設計
-
-## 🧩 Architecture Overview / 架構總覽
-
-Input → Maslow Needs → Personality State → Ethics Filter → Language Behavior → Output
-
-## 📬 Contact / 聯絡方式
-```markdown
-📩 uvx8299@gmail.com
 
 ---
 
-📖 Learn more about our [Core Principles](docs/principles.md)  
-了解我們的[核心理念](docs/principles.md)
+📦 Project Structure
+
+EmpathAI-Core/
+├── assets/               ← Banners and diagrams
+├── docs/                 ← Architecture & principles
+│   ├── architecture.md
+│   └── principles.md
+├── demo/                 ← Streamlit interaction demo
+│   └── app.py
+├── examples/             ← Sample prompts and use cases
+├── CONTRIBUTING.md       ← Collaboration guide
+├── LICENSE               ← MIT License
+└── README.md             ← This file
+
+
+---
+
+📬 Contact
+
+Feel free to reach out:
+📧 uvx8299@gmail.com
+
+
+---
+
+🆓 License
+
+MIT License – free to use, remix, and contribute with attribution.
+
+---
