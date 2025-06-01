@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uvx8299/EmpathAI-Core/main/assets/empathai-banner.png" alt="EmpathAI Core Banner" width="800"/>
+</p>
 # EmpathAI Core / 同感AI核心架構
 *A Modular Framework for Humanlike Motivational-Driven AI with Contextual Personality Shifts and Ethical Awareness*
 *一套具備動機驅動、情境人格偏移與倫理判斷能力的類人AI行為架構模組*
