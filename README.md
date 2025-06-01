@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="assets/banner.png" alt="EmpathAI Core Banner">
 </p>
@@ -34,6 +35,7 @@ You can test how EmpathAI Core simulates different personality responses to the 
 ```bash
 cd demo
 streamlit run app.py
+
 
 💡 Why this matters / 為什麼它重要
 
