@@ -27,9 +27,7 @@ EmpathAI Core 是一套開源框架，用於模擬語言型 AI 的**動機驅動
 你可以體驗 EmpathAI Core 如何針對相同輸入，產生具人格風格差異的回應。
 
 ### ▶️ Run locally
-```bash
-cd demo
-streamlit run app.py
+```bash cd demo streamlit run app.py ```  
 
 💡 Why this matters / 為什麼它重要
 
