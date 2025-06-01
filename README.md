@@ -35,6 +35,7 @@ You can test how EmpathAI Core simulates different personality responses to the 
 cd demo
 streamlit run app.py
 
+
 💡 Why this matters / 為什麼它重要
 
 Traditional LLMs often lack contextual emotional logic.
