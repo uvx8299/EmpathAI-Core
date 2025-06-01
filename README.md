@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="EmpathAI Core Banner">
+  <img src="https://raw.githubusercontent.com/uvx8299/EmpathAI-Core/main/assets/empathai-banner.png" alt="EmpathAI Core Banner" width="800"/>
 </p>
+
 
 # 🧠 EmpathAI Core
 
