@@ -18,6 +18,26 @@ EmpathAI Core 是一套可模組化的AI行為生成架構，融合以下概念�
 
 它可生成具有「情感深度、倫理反思、語境敏感性」的語言回應，超越傳統統計式語言模型。
 
+---
+
+## 🎮 Personality Drift Demo｜語言人格偏移互動展示
+
+You can test how EmpathAI Core simulates different personality responses to the same input.
+
+你可以體驗 EmpathAI Core 如何針對相同輸入，產生具人格風格差異的回應。
+
+### ▶️ Run locally
+```bash
+cd demo
+streamlit run app.py
+You will see:
+
+💬 Prompt input box
+
+🧬 Personality selector (Empathetic / Pragmatic / Neutral)
+
+🗣️ Output simulating behavioral language shifts
+
 ## 💡 Why this matters / 為什麼它重要
 
 與傳統僅靠語料機率的模型不同，EmpathAI Core 提供：
