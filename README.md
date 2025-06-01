@@ -4,8 +4,11 @@
 # EmpathAI Core / 同感AI核心架構
 *A Modular Framework for Humanlike Motivational-Driven AI with Contextual Personality Shifts and Ethical Awareness*
 *一套具備動機驅動、情境人格偏移與倫理判斷能力的類人AI行為架構模組*
-
 ## 🧠 What is EmpathAI Core? / 什麼是EmpathAI Core？
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uvx8299/EmpathAI-Core/main/assets/empathai_architecture.png" alt="EmpathAI Architecture" width="700"/>
+</p>
+
 
 EmpathAI Core 是一套可模組化的AI行為生成架構，融合以下概念：
 - 馬斯洛需求層級模型
