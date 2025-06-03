@@ -1,3 +1,13 @@
+📌 本專案與任何名為「EmpathAI」之其他 GitHub 倉庫無關。  
+This project is not affiliated with any other GitHub repositories titled “EmpathAI”.
+
+本架構為原創「類人 AI 行為架構」與沙盒敘事模型，  
+由 uvx8299 設計與主導，專注於語言、人格偏移與敘事邏輯生成之融合技術。  
+This is an original project designed by uvx8299, focused on the integration of  
+language models, personality shift systems, and narrative logic engines.
+
+📮 聯絡信箱 / Contact: uvx8299@gmail.com
+
 <p align="center">
   <img src="assets/empathai-banner.png" alt="EmpathAI Core Banner" width="800"/>
 </p>
